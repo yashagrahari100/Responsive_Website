@@ -608,6 +608,6 @@ body {
     .project-section{
         height: 410vh;
     }
-    .contact-item{
+    .contact-item a{
         font-size:3vh;
 }
